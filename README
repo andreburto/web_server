@@ -1,4 +1,4 @@
-A proof of concept web server written in AuoIT Script.
+A proof of concept web server written in AutoIT Script.
 
 It does not handle any requests besides GET.
 
